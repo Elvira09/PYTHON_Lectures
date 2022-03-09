@@ -210,6 +210,7 @@ numbers = list(ran)
 print(numbers, ' # [1, 2, 3, 4, 5, 6, 7]') 
 numbers[0] = 10
 print(numbers) # заменяем  первый элемент
+
 for i in numbers: # умножаем каждый элемент на 2
  	i *= 2
  	print(i) # [20, 4, 6, 8, 10]
@@ -242,4 +243,7 @@ arg = 2.3
 print(f(arg), type(f(arg))) 
 arg = 2
 print(f(arg), type(f(arg))) 
+
+
+
 
