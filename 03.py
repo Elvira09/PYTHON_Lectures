@@ -175,22 +175,3 @@ data = list(enumerate(users))
 print(data)	# [(0, 'user1'), (1, 'user2'), (2, 'user3'), (3, 'user4'), (4, 'user5')]
 
 
-
-
-# def sum(x):
-#  	return x+10
-# def mult(x):
-#  	return x**2
-# #сокращаем функции
-# sum = lambda x: x+10
-# mult = lambda x: x**2
-# sum(mult(2))
-
-# sum1 = lambda x: x+22
-# mult2 = lambda x: x**3
-# sum1(mult2(2))
-
-# sum4 = lambda x: x+242
-# mult4 = lambda x: x**5
-# sum3(mult2(2))
-
