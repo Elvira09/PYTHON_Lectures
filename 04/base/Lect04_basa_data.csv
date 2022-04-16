@@ -1,0 +1,18 @@
+id: 135ad27a-ba33-11ec-a5ff-f218984f1464 
+name: {generate_name()}  
+surname: {generate_surname()} 
+birthday: {generate_birthday()} 
+phone: {generate_phone()} 
+
+id: 135ad3c4-ba33-11ec-a5ff-f218984f1464 
+name: {generate_name()}  
+surname: {generate_surname()} 
+birthday: {generate_birthday()} 
+phone: {generate_phone()} 
+
+id: 135ad432-ba33-11ec-a5ff-f218984f1464 
+name: {generate_name()}  
+surname: {generate_surname()} 
+birthday: {generate_birthday()} 
+phone: {generate_phone()} 
+

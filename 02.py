@@ -27,6 +27,8 @@ with open('Lect02_file.txt', 'a') as data:
  	data.write('line 2\n')
 
 	# Чтение данных из файла В КОНСОЛИ
+print('\nЧтение данных из файла В КОНСОЛИ')
+
 path = 'Lect02_file.txt'
 data = open(path, 'r')
 for line in data:
